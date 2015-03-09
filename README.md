@@ -10,7 +10,7 @@ So if you want to use this as a base for you blog or even a webapp with some mar
 1. Install the global requirements: `npm install -g gulp bower browserify`;
 1. Install the local requirements: `npm install`;
 1. Install the Bower components: `bower install`;
-1. Install the Jekyll: `sudo gem install jekyll`;
+1. Install Jekyll: `sudo gem install jekyll`;
 1. Install the markdown language: `sudo gem install rdiscount`
 1. Run locally with `gulp` and access it through  `http://localhost:5000/`;
 1. Create a build: `gulp build` and preview it through `http://localhost:9999/`.
